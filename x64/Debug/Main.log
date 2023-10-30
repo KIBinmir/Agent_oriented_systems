@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\kiril\Downloads\vs-sfml-template-master\vs-sfml-template-master\Main\main.cpp(145,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kiril\Downloads\vs-sfml-template-master\vs-sfml-template-master\Main\main.cpp(256,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kiril\Downloads\vs-sfml-template-master\vs-sfml-template-master\Main\main.cpp(256,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kiril\Downloads\vs-sfml-template-master\vs-sfml-template-master\Main\main.cpp(261,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kiril\Downloads\vs-sfml-template-master\vs-sfml-template-master\Main\main.cpp(261,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\Users\kiril\Downloads\vs-sfml-template-master\vs-sfml-template-master\Main\x64\Debug\Main.exe для записи
